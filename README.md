@@ -8,7 +8,7 @@
 
 <h2 height="200px" align="center">🏆 Github Profile</h2>
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=huangPengL&column=9&theme=gruvbox&no-frame=true"/>
+<!-- <img width=800 src="https://github-profile-trophy.vercel.app/?username=huangPengL&column=9&theme=gruvbox&no-frame=true"/> -->
 
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangPengL&show_icons=true&theme=tokyonight)
 
