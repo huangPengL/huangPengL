@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangPengL&layout=compact&hide=html)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huangPengL&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huangPengL&theme=neon-palenight&hide_border=false)
 
 <h2 height="200px" align="center">🛠 Languages and Tools</h2>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="bash" width="40" height="40"/></code>
