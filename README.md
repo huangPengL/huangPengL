@@ -1,8 +1,6 @@
 
+<div align=center>
 <h2 height="200px" align="center">Hey there👋, I'm Huang Penglong! A Java developer.</h2>
-
-
-
 <a href="https://huangpengl.github.io/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
 <a href="https://leetcode.cn/u/coping_code/" target="blank">Leetcode: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Medium" height="30" width="40" /></a>
 
@@ -16,11 +14,14 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huangPengL&theme=neon-palenight&hide_border=false)
 
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+
 <h2 height="200px" align="center">🛠 Languages and Tools</h2>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="bash" width="40" height="40"/></code>
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="bash" width="40" height="40"/></code>
@@ -31,3 +32,4 @@
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
+</div>
