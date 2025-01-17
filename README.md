@@ -1,6 +1,6 @@
 
 <div align=center>
-<h2 height="200px" align="center">Hey there👋, I'm Huang Penglong! A Java developer.</h2>
+<h2 height="200px" align="center">Hey there👋, I'm Huang Penglong! A AI developer.</h2>
 <a href="https://huangpengl.github.io/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
 <a href="https://leetcode.cn/u/coping_code/" target="blank">Leetcode: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Medium" height="30" width="40" /></a>
 
